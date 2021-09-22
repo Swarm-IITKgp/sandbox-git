@@ -32,6 +32,6 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Spandan Kumar Sahu [SpandanKumarSahu](https://github.com/SpandanKumarSahu)
 * Subham Sekhar Sahoo [noizzy3](https://github.com/noizzy3)
 * Swastik Haldar [swastikhaldar](https://github.com/swastikhaldar)
-
+* Debayan Pradhan [Phoenix-031](https://github.com/Phoenix-031)
 
 
